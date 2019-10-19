@@ -1,4 +1,4 @@
-# software-analysis-and-test
+# 程序静态分析-SSA
 **first.c**:简单的加法程序，用于实验  
 **first.ll**:使用LLVM将first.c转化为SSA后的程序，可见为部分SSA  
 
